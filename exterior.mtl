@@ -575,6 +575,7 @@ newmtl MASTER_Forge_Metal
 	Ke 0.000 0.000 0.000
 	map_Ka ..\BuildingTextures\Paris_Building01_Window_01_diff.png
 	map_Kd ..\BuildingTextures\Paris_Building01_Window_01_diff.png
+	map_disp ..\BuildingTextures\Paris_Building01_Window_01_displ.png
 	map_Ks ..\BuildingTextures\Paris_Building01_Window_01_spec.png
 	map_d ..\BuildingTextures\Paris_Building01_Window_01_mask.png
 	map_bump ..\BuildingTextures\Paris_Building01_Window_01_ddna.png
@@ -729,8 +730,8 @@ newmtl MASTER_Brick_Large_White
 	Kd 1.000 1.000 1.000
 	Ks 0.1 0.1 0.1
 	Ke 0.000 0.000 0.000
-    map_bump ..\BuildingTextures\brick_large_02_ddna.png
-    map_Ks ..\BuildingTextures\brick_large_02_spec.png
+	map_bump ..\BuildingTextures\brick_large_02_ddna.png
+	map_Ks ..\BuildingTextures\brick_large_02_spec.png
 	map_Kd ..\BuildingTextures\brick_large_02_diff.png
 
 newmtl MASTER_Building_Details
@@ -746,6 +747,7 @@ newmtl MASTER_Building_Details
 	Ke 0.000 0.000 0.000
 	map_Ka ..\BuildingTextures\Paris_Building_09_Details_diff.png
 	map_Kd ..\BuildingTextures\Paris_Building_09_Details_diff.png
+	map_disp ..\BuildingTextures\Paris_Building_09_Details_disp.png
 	map_Ks ..\BuildingTextures\paris_building_09_details_spec.png
 
 newmtl MASTER_Wood_Painted_Cyan
@@ -959,6 +961,7 @@ newmtl MASTER_Rollup_Door
 	Ke 0.000 0.000 0.000
 	map_Ka ..\OtherTextures\Tiling\Metal_ RollDoor_01\Metal_ RollDoor_01_diff.png
 	map_Kd ..\OtherTextures\Tiling\Metal_ RollDoor_01\Metal_ RollDoor_01_diff.png
+	map_disp ..\OtherTextures\Tiling\Metal_ RollDoor_01\Metal_ RollDoor_01_displ.png
 	map_Ks ..\BuildingTextures\Metal_ RollDoor_01_spec.png
 
 newmtl MASTER_Details_Dark
@@ -974,6 +977,7 @@ newmtl MASTER_Details_Dark
 	Ke 0.000 0.000 0.000
 	map_Ka ..\BuildingTextures\Paris_Building_09_Details_diff.png
 	map_Kd ..\BuildingTextures\Paris_Building_09_Details_diff.png
+	map_disp ..\BuildingTextures\Paris_Building_09_Details_disp.png
 	map_Ks ..\BuildingTextures\Paris_Building_09_Details_spec.png
 
 newmtl Foliage_Bux_Hedges46
@@ -1062,6 +1066,7 @@ newmtl Foliage_Linde_Tree_Large_Trunk
 	Ke 0.000 0.000 0.000
 	map_Ka ..\PropTextures\Natural\linden\Linden_Bark_A_diff.png
 	map_Kd ..\PropTextures\Natural\linden\Linden_Bark_A_diff.png
+	map_disp ..\PropTextures\Natural\linden\Linden_Bark_A_displ.png
 
 newmtl Foliage_Linde_Tree_Large_Orange_Leaves
 	Ns 36.000
@@ -1753,6 +1758,7 @@ newmtl Plaster
 	Ke 0.000 0.000 0.000
 	map_Ka ..\OtherTextures\Tiling\Brick_Large_01\brick_large_01_diff.png
 	map_Kd ..\OtherTextures\Tiling\Brick_Large_01\brick_large_01_diff.png
+	map_disp ..\OtherTextures\Tiling\Brick_Large_01\brick_large_01_disp.png
 	map_Ks ..\OtherTextures\Tiling\Brick_Large_01\brick_large_01_spec.png
 
 newmtl Concrete2
@@ -1782,6 +1788,7 @@ newmtl Concrete_Striped
 	Ks 0.1 0.1 0.1
 	Ke 0.000 0.000 0.000
 	map_Kd ..\OtherTextures\Tiling\Concrete_Grooved_02\Concrete_Grooved_02_Diff.png
+	map_disp ..\OtherTextures\Tiling\Concrete_Grooved_02\Concrete_Grooved_02_displ.png
 	map_bump ..\OtherTextures\Tiling\Concrete_Grooved_02\Concrete_Grooved_02_ddna.png
 	map_Ks ..\OtherTextures\Tiling\Concrete_Grooved_02\Concrete_Grooved_02_Spec.png
 

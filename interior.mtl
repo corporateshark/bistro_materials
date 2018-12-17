@@ -471,6 +471,7 @@ newmtl Wood
 	Ke 0.000 0.000 0.000
 	map_Ka ..\OtherTextures\Tiling\Wood_Planks_01\Wood_Planks_01_Diff.png
 	map_Kd ..\OtherTextures\Tiling\Wood_Planks_01\Wood_Planks_01_Diff.png
+	map_disp ..\OtherTextures\Tiling\Wood_Planks_01\Wood_Planks_01_displ.png
 	map_Ks ..\OtherTextures\Tiling\Wood_Planks_01\Wood_Planks_01_Spec.png
 
 newmtl Plastic_02
