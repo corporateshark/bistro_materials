@@ -575,7 +575,7 @@ newmtl MASTER_Forge_Metal
 	Ke 0.000 0.000 0.000
 	map_Ka ..\BuildingTextures\Paris_Building01_Window_01_diff.png
 	map_Kd ..\BuildingTextures\Paris_Building01_Window_01_diff.png
-	map_Ks ..\BuildingTextures\paris_building01_window_01_displ.png
+	map_Ks ..\BuildingTextures\Paris_Building01_Window_01_spec.png
 	map_d ..\BuildingTextures\Paris_Building01_Window_01_mask.png
 	map_bump ..\BuildingTextures\Paris_Building01_Window_01_ddna.png
 
