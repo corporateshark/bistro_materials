@@ -746,7 +746,7 @@ newmtl MASTER_Building_Details
 	Ke 0.000 0.000 0.000
 	map_Ka ..\BuildingTextures\Paris_Building_09_Details_diff.png
 	map_Kd ..\BuildingTextures\Paris_Building_09_Details_diff.png
-	map_Ks ..\BuildingTextures\paris_building_09_details_disp.png
+	map_Ks ..\BuildingTextures\paris_building_09_details_spec.png
 
 newmtl MASTER_Wood_Painted_Cyan
 	Ns 50.000
