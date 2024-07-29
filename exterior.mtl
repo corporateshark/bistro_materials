@@ -959,10 +959,10 @@ newmtl MASTER_Rollup_Door
 	Kd 1.000 1.000 1.000
 	Ks 0.000 0.000 0.000
 	Ke 0.000 0.000 0.000
-	map_Ka ..\OtherTextures\Tiling\Metal_ RollDoor_01\Metal_ RollDoor_01_diff.png
-	map_Kd ..\OtherTextures\Tiling\Metal_ RollDoor_01\Metal_ RollDoor_01_diff.png
-	map_disp ..\OtherTextures\Tiling\Metal_ RollDoor_01\Metal_ RollDoor_01_displ.png
-	map_Ks ..\BuildingTextures\Metal_ RollDoor_01_spec.png
+	map_Ka ..\OtherTextures\Tiling\Metal_RollDoor_01\Metal_RollDoor_01_diff.png
+	map_Kd ..\OtherTextures\Tiling\Metal_RollDoor_01\Metal_RollDoor_01_diff.png
+	map_disp ..\OtherTextures\Tiling\Metal_RollDoor_01\Metal_RollDoor_01_displ.png
+	map_Ks ..\BuildingTextures\Metal_RollDoor_01_spec.png
 
 newmtl MASTER_Details_Dark
 	Ns 100.000
